@@ -1,4 +1,4 @@
-# User Stories for Home
+# User Stories
 
 **Open a post**: As a Site User, I can click on a post so that I can read the full text.
 > **AC1** When a blog post title is clicked on a detailed view of the post is seen.
