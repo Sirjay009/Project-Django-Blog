@@ -33,5 +33,10 @@
 
 **Approve comments**: As a Site Admin I can approve or disapprove comments so that I can filter out objectionable comments  
 > **AC1** Given a logged in user, they can approve a comment  
-> **AC2** Given a logged in user, they can disapprove a comment  
+> **AC2** Given a logged in user, they can disapprove a comment
+
+**View Paginated List of Posts**: As a Site User I can view a paginated list of posts so that I can select which post I want to view.  
+> **AC1** Given more than one post in the database, these multiple posts are listed. 
+> **AC2** When a user opens the main page, a list of posts is seen.  
+> **AC3** Then the user sees all post titles with pagination to choose what to read. 
 
