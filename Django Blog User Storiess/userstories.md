@@ -35,10 +35,3 @@
 > **AC1** Given a logged in user, they can approve a comment  
 > **AC2** Given a logged in user, they can disapprove a comment  
 
-**Create drafts**: As a Site Admin I can create draft posts so that I can finish writing the content later.
-> **AC1** Given a logged in user, they can save a draft blog post.
-> **AC2** Then they can finish the content at a later time.
-
-**Approve comments**: As a Site Admin I can approve or disapprove comments so that I can filter out objectionable comments.
-> **AC1** Given a logged in user, they can approve a comment.
-. **AC2** Given a logged in user, they can disapprove a comment.
